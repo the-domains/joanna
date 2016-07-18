@@ -1,0 +1,28 @@
+name: Joanna
+favicon: null
+layout_spectrum: 0.14091929863207042
+typography_spectrum: 0.8568573568481952
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.1758784030098468
+  lightness: 0.2223716990556568
+  saturation: 0.3133708161767572
+  rhythmicContrast: 0.11779733002185822
+purpose: []
